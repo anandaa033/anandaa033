@@ -14,5 +14,5 @@ Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam necessitatibus
 ```
 
 Result
-!['roadmap'](images/ex1.jpg)
+!['roadmap'](image/ex1.jpg)
 
